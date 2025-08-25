@@ -4,35 +4,38 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic"> -->
+<img src="images/YH_du.jpg" class="floatpic">
+Here is **Yuhao Du (杜宇豪)**.<br>
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+I am currently a Phd student in the [Intelligent Transportation Research Center](https://its.whut.edu.cn/) at Wuhan University of Technology，supervised by [Prof. Yi HE](https://its.whut.edu.cn/?jiaoshifengcai/844.html).I graduated from the Department of Traffic Engineering at East China Jiaotong University in 2022 with a Bachelor of Engineering degree. In the same year, began pursuing a Master of Engineering degree at the Intelligent Transportation Systems Research Center of Wuhan University of Technology, specializing in motion planning for autonomous vehicles.
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+Before my Phd stage, I have been working on the topic of autonomous driving using Nolineaer Planning. I am highly interested in cutting-edge fields such as end-to-end autonomous driving, diffusion models, and large model-guided vehicle motion planning. I am convinced that key next-generation technologies—including large models, end-to-end approaches, and diffusion models—will empower the vehicle-road-cloud integrated intelligent transportation systems, bringing revolutionary changes to traditional traffic and making L4-level autonomous driving achievable.
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+Specifically, my doctoral research will focus on autonomous vehicles, with an emphasis on motion planning. I aim to explore the application of new artificial intelligence technologies in planning and control, ultimately achieving the integration of intelligent transportation systems and autonomous driving.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuhao_du [at] whut.edu.cn**
 
 ---
 
 ## Research Interests
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
+- Diffusion Model
+- End 2 End Autonomous Driving
 - Large Language Model Agents
-- LLM for Networking
+- Vehicle Motion Planning
 
 ---
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **June 2025**：**Awarded Outstanding Master's Graduate** by Wuhan University of Technology
+- **June 2025**：Successfully passed the master's thesis defense and was awarded a Master of Engineering degree.
+- **November 2024**：**First Place**​​, Virtual-Real Integration Autonomous Driving Challenge
+- **June 2024**：**First Place**​​, OnSite Autonomous Driving Algorithm Challenge – Parking Specialty Competition
+- **June 2023**：**Third Place**​​, OnSite Autonomous Driving Algorithm Challenge – Merging & Exiting Specialty Competition
+- **June 2023**：**Tenth Place**​​, OnSite Autonomous Driving Algorithm Challenge – Basic Highway Specialty Competition
 
 <br>
 
