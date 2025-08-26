@@ -15,21 +15,21 @@ url: https://teleyuhao.github.io
 # --------------------------------------------------
 owner:
   name: Yuhao Du
-  avatar: Yuhao.jpg
+  avatar: Yuhao_Du.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: yuhao_du@whut.edu.cn
   cv: https://teleyuhao.github.io/file/Resume_DuYuhao.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  # twitter: lancecai2002
   github: TeleYuhao
-  linkedin: hanlincai
+  # linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  bilibili: 594030035
+  researchgate: https://www.researchgate.net/profile/Yuao-Du
+  # zhihu: https://www.zhihu.com/people/chlire
+  # xiaohongshu: 5c27848f0000000005030c6f
+  bilibili: 18270611692
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -55,8 +55,8 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Hobbies
+  #   url: /hobbies/
   # - title: Blogs
     # url: /blogs/
   - title: 中文
